@@ -1,5 +1,5 @@
-# Recursion-example-bill-of-materials
-Bill of materials with unlimited number of explosion solved with a recursive function in M Formula Language
+# Recursion-example-bill-of-materials BOM
+Bill of materials (BOM) with unlimited number of explosion solved with a recursive function in M Formula Language
 For Power BI or Excel Power Query
 
 Example with a test table
